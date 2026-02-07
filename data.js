@@ -138,22 +138,22 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.7029965550555701,
-          "pitch": 0.1012106739874703,
+          "yaw": 0.05358848048561171,
+          "pitch": -0.17051613309329028,
           "rotation": 0,
           "target": "3-4-c-cha-gisu-bin-hnh-trn-ni"
         },
         {
-          "yaw": 0.004657148241202336,
-          "pitch": -0.4721606572718109,
+          "yaw": -1.7029965550555701,
+          "pitch": 0.1012106739874703,
           "rotation": 0,
           "target": "1-2-c-cha-gisu-d-tic-ci-cana"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 0.014038566703753474,
-          "pitch": -0.4708236215814203,
+          "yaw": 0.004657148241202336,
+          "pitch": -0.4721606572718109,
           "title": "Đức Giê-su khai mạc công việc rao giảng",
           "text": "Sau khi ông Gio-an bị nộp, Đức Giê-su đến miền Ga-li-lê rao giảng Tin Mừng của Thiên Chúa. Người nói: “Thời kỳ đã mãn, và Triều Đại Thiên Chúa đã đến gần. Anh em hãy hối cải và tin vào Tin Mừng.”<div>(Mác-cô 1:14-15)</div>"
         }
