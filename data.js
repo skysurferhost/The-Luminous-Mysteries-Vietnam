@@ -45,7 +45,7 @@ var APP_DATA = {
           "yaw": 0.6319923911907424,
           "pitch": -0.17290606185455815,
           "title": "<p class=\"MsoNormal\">Đức Giê-su chịu phép rửa<o:p></o:p></p>",
-          "text": "Bấy giờ, Đức Giê-su từ miền Ga-li-lê đến sông Gio-đan, gặp ông Gio-an để xin ông làm phép rửa cho mình. Nhưng ông một mực can Người và nói: “Chính tôi mới cần được Ngài làm phép rửa, thế mà Ngài lại đến với tôi!” Nhưng Đức Giê-su trả lời: “Bây giờ cứ thế đã. Vì chúng ta nên làm như vậy để giữ trọn đức công chính.” Bấy giờ ông Gio-an mới chiều theo ý Người. Khi Đức Giê-su chịu phép rửa xong, vừa ở dưới nước lên, thì các tầng trời mở ra. Người thấy Thần Khí Thiên Chúa đáp xuống như chim bồ câu và ngự trên Người. Và có tiếng từ trời phán: “Đây là Con yêu dấu của Ta, Ta hài lòng về Người.”<div><p class=\"MsoNormal\">(Mátthêu 3:13–17)<o:p></o:p></p></div>"
+          "text": "Bấy giờ, Đức Giê-su từ miền Ga-li-lê đến sông Gio-đan, gặp ông Gio-an để xin ông làm phép rửa cho mình. Nhưng ông một mực can Người và nói: “Chính tôi mới cần được Ngài làm phép rửa, thế mà Ngài lại đến với tôi!” Nhưng Đức Giê-su trả lời: “Bây giờ cứ thế đã. Vì chúng ta nên làm như vậy để giữ trọn đức công chính.” Bấy giờ ông Gio-an mới chiều theo ý Người.</div><div><br></div><div>Khi Đức Giê-su chịu phép rửa xong, vừa ở dưới nước lên, thì các tầng trời mở ra. Người thấy Thần Khí Thiên Chúa đáp xuống như chim bồ câu và ngự trên Người. Và có tiếng từ trời phán: “Đây là Con yêu dấu của Ta, Ta hài lòng về Người.”<div><p class=\"MsoNormal\">(Mátthêu 3:13–17)<o:p></o:p></p></div>"
         }
       ]
     },
