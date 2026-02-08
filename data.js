@@ -154,8 +154,8 @@ var APP_DATA = {
         {
           "yaw": 0.004657148241202336,
           "pitch": -0.4721606572718109,
-          "title": "Đức Giê-su khai mạc công việc rao giảng",
-          "text": "Sau khi ông Gio-an bị nộp, Đức Giê-su đến miền Ga-li-lê rao giảng Tin Mừng của Thiên Chúa. Người nói: “Thời kỳ đã mãn, và Triều Đại Thiên Chúa đã đến gần. Anh em hãy hối cải và tin vào Tin Mừng.”<div>(Mác-cô 1:14-15)</div>"
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Đức Giê-su khai mạc công việc rao giảng</span><o:p></o:p></p>",
+          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Sau khi ông Gio-an bị nộp, Đức Giê-su đến miền Ga-li-lê rao giảng Tin Mừng của Thiên Chúa. Người nói: “Thời kỳ đã mãn, và Triều Đại Thiên Chúa đã đến gần. Anh em hãy hối cải và tin vào Tin Mừng.”<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">(Mác-cô 1:14-15)</div>"
         }
       ]
     },
