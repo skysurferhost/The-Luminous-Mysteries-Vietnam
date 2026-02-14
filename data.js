@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-1-c-cha-gisu-chu-php-ra-ti-sng-gioan",
-      "name": "1. Đức Chúa Giêsu Chịu Phép Rửa Tại Sông Giođan",
+      "name": "1. Đức Chúa Giê-su Chịu Phép Rửa Tại Sông Gio-đan",
       "levels": [
         {
           "tileSize": 256,
@@ -51,7 +51,7 @@ var APP_DATA = {
     },
     {
       "id": "1-2-c-cha-gisu-d-tic-ci-cana",
-      "name": "2. Đức Chúa Giêsu Dự Tiệc Cưới Cana",
+      "name": "2. Đức Chúa Giê-su Dự Tiệc Cưới Ca-na",
       "levels": [
         {
           "tileSize": 256,
@@ -106,7 +106,7 @@ var APP_DATA = {
     },
     {
       "id": "2-3-c-cha-gisu-rao-ging-nc-tri-v-ku-gi-sm-hi",
-      "name": "3. Đức Chúa Giêsu Rao Giảng Nước Trời và Kêu Gọi Sám Hối",
+      "name": "3. Đức Chúa Giê-su Rao Giảng Nước Trời và Kêu Gọi Sám Hối",
       "levels": [
         {
           "tileSize": 256,
@@ -161,7 +161,7 @@ var APP_DATA = {
     },
     {
       "id": "3-4-c-cha-gisu-bin-hnh-trn-ni",
-      "name": "4. Đức Chúa Giêsu Biến Hình Trên Núi",
+      "name": "4. Đức Chúa Giê-su Biến Hình Trên Núi",
       "levels": [
         {
           "tileSize": 256,
@@ -216,7 +216,7 @@ var APP_DATA = {
     },
     {
       "id": "4-5-c-cha-gisu-lp-b-tch-thnh-th",
-      "name": "5. Đức Chúa Giêsu Lập Bí Tích Thánh Thể",
+      "name": "5. Đức Chúa Giê-su Lập Bí Tích Thánh Thể",
       "levels": [
         {
           "tileSize": 256,
