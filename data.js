@@ -259,7 +259,7 @@ var APP_DATA = {
           "yaw": 0.06865999545901147,
           "pitch": -0.5026090379846924,
           "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">Giê-su lập bí tích Thánh Thể</span><o:p></o:p></p>",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 150%;\">Cũng trong bữa ăn, Đức Giê-su cầm lấy bánh, dâng lời chúc tụng, rồi bẻ ra, trao cho môn đệ và nói: “Anh em cầm lấy mà ăn, đây là mình Thầy.” Rồi Người cầm lấy chén, dâng lời tạ ơn, trao cho môn đệ và nói: “Tất cả anh em hãy uống chén này, vì đây là máu Thầy, máu Giao Ước, đổ ra cho muôn người được tha tội.<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Mátthêu 26:26-28)</div>"
+          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Cũng trong bữa ăn, Đức Giê-su cầm lấy bánh, dâng lời chúc tụng, rồi bẻ ra, trao cho môn đệ và nói: “Anh em cầm lấy mà ăn, đây là mình Thầy.” Rồi Người cầm lấy chén, dâng lời tạ ơn, trao cho môn đệ và nói: “Tất cả anh em hãy uống chén này, vì đây là máu Thầy, máu Giao Ước, đổ ra cho muôn người được tha tội.<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Mátthêu 26:26-28)</div>"
         }
       ]
     }
